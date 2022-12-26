@@ -1,0 +1,13 @@
+.main {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    width: 280px;
+    justify-content: space-around;
+    background: #ccc;
+    padding: 20px;
+    margin: 0 auto;
+}
